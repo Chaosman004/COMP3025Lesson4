@@ -1,13 +1,13 @@
 {
-  "name": "comp3025-lesson4",
-  "homepage": "https://github.com/Chaosman004/COMP3025Lesson4",
+  "name": "comp3025-w2017-lesson4",
+  "homepage": "https://github.com/GeorgianCollege/COMP3025-W2017-Lesson4",
   "authors": [
-    "Chaosman004 <mr.robert.page@gmail.com>"
+    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
   ],
   "description": "TypeScript Demo with CreateJS",
   "main": "index.html",
   "keywords": [
-    "Javascript",
+    "JavaScript",
     "TypeScript",
     "CreateJS"
   ],
